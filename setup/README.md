@@ -20,12 +20,3 @@ Files needed to setup and run a Liferay Sales bundle
 ## tomcat
 - Scripted commands for tomcat bundles
 - Usage "service tomcat start|stop|status|kill|restart"
-
-## virtual_host.conf
-- Virtual host file for Apache HTTPD for use with HTTPS and LRDC pop-up.
-
-## virtual_host_alt.conf
-- Virtual host file for Apache HTTPD for use with HTTPS and demo pop-up.
-
-## virtual_host_ldx.conf
-- Virtual host file for Apache HTTPD for use with HTTPS.
