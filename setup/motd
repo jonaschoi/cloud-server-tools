@@ -1,0 +1,7 @@
+*******************************************************************
+*                                                                 *
+* This server currently has DXP Feature Set V1 active.            *
+* Go to /opt/java/liferay                                         *
+* Use "service tomcat start|stop|kill|status|restart"             *
+*                                                                 *
+*******************************************************************
